@@ -1,4 +1,7 @@
 # ENE463
+
+only work on local.
+
 index.php = upload system frontpage
 
 process.php = uploading process
